@@ -1,0 +1,13 @@
+D:\Univer\Programarea in retea\sendRecieve\sendRecieve\obj\Debug\sendRecieve.csprojAssemblyReference.cache
+D:\Univer\Programarea in retea\sendRecieve\sendRecieve\obj\Debug\sendRecieve.Form1.resources
+D:\Univer\Programarea in retea\sendRecieve\sendRecieve\obj\Debug\sendRecieve.Properties.Resources.resources
+D:\Univer\Programarea in retea\sendRecieve\sendRecieve\obj\Debug\sendRecieve.csproj.GenerateResource.cache
+D:\Univer\Programarea in retea\sendRecieve\sendRecieve\bin\Debug\sendRecieve.exe.config
+D:\Univer\Programarea in retea\sendRecieve\sendRecieve\bin\Debug\sendRecieve.exe
+D:\Univer\Programarea in retea\sendRecieve\sendRecieve\bin\Debug\sendRecieve.pdb
+D:\Univer\Programarea in retea\sendRecieve\sendRecieve\bin\Debug\S22.Imap.dll
+D:\Univer\Programarea in retea\sendRecieve\sendRecieve\obj\Debug\Interop.Accessibility.dll
+D:\Univer\Programarea in retea\sendRecieve\sendRecieve\obj\Debug\sendRecieve.csproj.ResolveComReference.cache
+D:\Univer\Programarea in retea\sendRecieve\sendRecieve\obj\Debug\sendRecieve.csproj.CopyComplete
+D:\Univer\Programarea in retea\sendRecieve\sendRecieve\obj\Debug\sendRecieve.exe
+D:\Univer\Programarea in retea\sendRecieve\sendRecieve\obj\Debug\sendRecieve.pdb
