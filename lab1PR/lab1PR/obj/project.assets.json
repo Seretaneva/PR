@@ -153,11 +153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eva\\Desktop\\PR\\lab1PR\\lab1PR\\lab1PR.csproj",
+      "projectUniqueName": "D:\\Univer\\Programarea in retea\\lab1PR\\lab1PR\\lab1PR.csproj",
       "projectName": "lab1PR",
-      "projectPath": "C:\\Users\\Eva\\Desktop\\PR\\lab1PR\\lab1PR\\lab1PR.csproj",
+      "projectPath": "D:\\Univer\\Programarea in retea\\lab1PR\\lab1PR\\lab1PR.csproj",
       "packagesPath": "C:\\Users\\Eva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eva\\Desktop\\PR\\lab1PR\\lab1PR\\obj\\",
+      "outputPath": "D:\\Univer\\Programarea in retea\\lab1PR\\lab1PR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

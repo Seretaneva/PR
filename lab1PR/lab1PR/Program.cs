@@ -12,7 +12,7 @@ using System.Collections.Generic;
 
 public class GetSocket
 {
-    
+    private static object bitmap;
 
     public static void Main(string[] args)
     {
@@ -42,12 +42,12 @@ public class GetSocket
 
             socket.Send(bytesSent, bytesSent.Length, 0);
             int bytes = 0;
-        Label:
+        Label1:
             bytes = socket.Receive(bytesReceived, bytesReceived.Length, 0);
             result += Encoding.UTF8.GetString(bytesReceived, 0, bytes);
             if (bytes > 0)
             {
-                goto Label;
+                goto Label1;
             }
             socket.Close();
             socket.Dispose();
