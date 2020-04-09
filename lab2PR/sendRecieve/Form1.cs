@@ -54,11 +54,7 @@ namespace sendRecieve
                 using (ImapClient client = new ImapClient("imap.gmail.com", 993, txtEmail.Text,
                        txtPassword.Text, AuthMethod.Login, true))
                 {
-                    if (client.Supports("IDLE") == false)
-                    {
-                        MessageBox.Show("Server does not support IMAP IDLE");
-                        return;
-                    }
+                   
                     client.NewMessage += new EventHandler<IdleMessageEventArgs>(OnNewMessage);
                     while (true) ;
                 }
@@ -74,6 +70,7 @@ namespace sendRecieve
             });
         }
 
+       
     }
 
 }

@@ -15,3 +15,20 @@ D:\Univer\Programarea in retea\lab1PR\lab1PR\bin\Debug\netcoreapp3.1\runtimes\wi
 D:\Univer\Programarea in retea\lab1PR\lab1PR\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Univer\Programarea in retea\lab1PR\lab1PR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Univer\Programarea in retea\lab1PR\lab1PR\obj\Debug\netcoreapp3.1\lab1PR.csproj.CopyComplete
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\bin\Debug\netcoreapp3.1\lab1PR.exe
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\bin\Debug\netcoreapp3.1\lab1PR.deps.json
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\bin\Debug\netcoreapp3.1\lab1PR.runtimeconfig.json
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\bin\Debug\netcoreapp3.1\lab1PR.runtimeconfig.dev.json
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\bin\Debug\netcoreapp3.1\lab1PR.dll
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\bin\Debug\netcoreapp3.1\lab1PR.pdb
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\obj\Debug\netcoreapp3.1\lab1PR.csprojAssemblyReference.cache
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\obj\Debug\netcoreapp3.1\lab1PR.AssemblyInfoInputs.cache
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\obj\Debug\netcoreapp3.1\lab1PR.AssemblyInfo.cs
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\obj\Debug\netcoreapp3.1\lab1PR.csproj.CopyComplete
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\obj\Debug\netcoreapp3.1\lab1PR.dll
+C:\Users\Eva\Desktop\PR\lab1PR\lab1PR\obj\Debug\netcoreapp3.1\lab1PR.pdb
