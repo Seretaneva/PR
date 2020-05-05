@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Univer\\Programarea in retea\\Lab1.PR\\Lab1.PR\\Lab1.PR.csproj": {}
+    "C:\\Users\\Eva\\Desktop\\PR\\Lab1.PR\\Lab1.PR\\Lab1.PR.csproj": {}
   },
   "projects": {
-    "D:\\Univer\\Programarea in retea\\Lab1.PR\\Lab1.PR\\Lab1.PR.csproj": {
+    "C:\\Users\\Eva\\Desktop\\PR\\Lab1.PR\\Lab1.PR\\Lab1.PR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Univer\\Programarea in retea\\Lab1.PR\\Lab1.PR\\Lab1.PR.csproj",
+        "projectUniqueName": "C:\\Users\\Eva\\Desktop\\PR\\Lab1.PR\\Lab1.PR\\Lab1.PR.csproj",
         "projectName": "Lab1.PR",
-        "projectPath": "D:\\Univer\\Programarea in retea\\Lab1.PR\\Lab1.PR\\Lab1.PR.csproj",
+        "projectPath": "C:\\Users\\Eva\\Desktop\\PR\\Lab1.PR\\Lab1.PR\\Lab1.PR.csproj",
         "packagesPath": "C:\\Users\\Eva\\.nuget\\packages\\",
-        "outputPath": "D:\\Univer\\Programarea in retea\\Lab1.PR\\Lab1.PR\\obj\\",
+        "outputPath": "C:\\Users\\Eva\\Desktop\\PR\\Lab1.PR\\Lab1.PR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,3 +9,14 @@ D:\Univer\Programarea in retea\Lab1.PR\Lab1.PR\obj\Debug\netcoreapp3.1\Lab1.PR.A
 D:\Univer\Programarea in retea\Lab1.PR\Lab1.PR\obj\Debug\netcoreapp3.1\Lab1.PR.AssemblyInfo.cs
 D:\Univer\Programarea in retea\Lab1.PR\Lab1.PR\obj\Debug\netcoreapp3.1\Lab1.PR.dll
 D:\Univer\Programarea in retea\Lab1.PR\Lab1.PR\obj\Debug\netcoreapp3.1\Lab1.PR.pdb
+C:\Users\Eva\Desktop\PR\Lab1.PR\Lab1.PR\bin\Debug\netcoreapp3.1\Lab1.PR.exe
+C:\Users\Eva\Desktop\PR\Lab1.PR\Lab1.PR\bin\Debug\netcoreapp3.1\Lab1.PR.deps.json
+C:\Users\Eva\Desktop\PR\Lab1.PR\Lab1.PR\bin\Debug\netcoreapp3.1\Lab1.PR.runtimeconfig.json
+C:\Users\Eva\Desktop\PR\Lab1.PR\Lab1.PR\bin\Debug\netcoreapp3.1\Lab1.PR.runtimeconfig.dev.json
+C:\Users\Eva\Desktop\PR\Lab1.PR\Lab1.PR\bin\Debug\netcoreapp3.1\Lab1.PR.dll
+C:\Users\Eva\Desktop\PR\Lab1.PR\Lab1.PR\bin\Debug\netcoreapp3.1\Lab1.PR.pdb
+C:\Users\Eva\Desktop\PR\Lab1.PR\Lab1.PR\obj\Debug\netcoreapp3.1\Lab1.PR.csprojAssemblyReference.cache
+C:\Users\Eva\Desktop\PR\Lab1.PR\Lab1.PR\obj\Debug\netcoreapp3.1\Lab1.PR.AssemblyInfoInputs.cache
+C:\Users\Eva\Desktop\PR\Lab1.PR\Lab1.PR\obj\Debug\netcoreapp3.1\Lab1.PR.AssemblyInfo.cs
+C:\Users\Eva\Desktop\PR\Lab1.PR\Lab1.PR\obj\Debug\netcoreapp3.1\Lab1.PR.dll
+C:\Users\Eva\Desktop\PR\Lab1.PR\Lab1.PR\obj\Debug\netcoreapp3.1\Lab1.PR.pdb
