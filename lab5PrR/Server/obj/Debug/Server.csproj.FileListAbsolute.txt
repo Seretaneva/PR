@@ -24,3 +24,12 @@ D:\PR\lab5PrR\Server\obj\Debug\Server.csproj.GenerateResource.cache
 D:\PR\lab5PrR\Server\obj\Debug\Server.csproj.CopyComplete
 D:\PR\lab5PrR\Server\obj\Debug\Server.exe
 D:\PR\lab5PrR\Server\obj\Debug\Server.pdb
+C:\Users\Eva\Desktop\PR\lab5PrR\Server\bin\Debug\Client.exe
+C:\Users\Eva\Desktop\PR\lab5PrR\Server\bin\Debug\Client.pdb
+C:\Users\Eva\Desktop\PR\lab5PrR\Server\bin\Debug\Client.exe.config
+C:\Users\Eva\Desktop\PR\lab5PrR\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Eva\Desktop\PR\lab5PrR\Server\obj\Debug\Server.ServerForm.resources
+C:\Users\Eva\Desktop\PR\lab5PrR\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Eva\Desktop\PR\lab5PrR\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Eva\Desktop\PR\lab5PrR\Server\obj\Debug\Server.exe
+C:\Users\Eva\Desktop\PR\lab5PrR\Server\obj\Debug\Server.pdb

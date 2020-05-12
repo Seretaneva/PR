@@ -41,8 +41,8 @@ namespace Server
 
                 string[] msg = Encoding.Unicode.GetString(buffer).Split('.');
                 WriteLog("Client  at Port: " + msg[0]);
-                WriteLog("at host : " + msg[1]);
-                WriteLog("need : " + msg[2]);
+                WriteLog("At host : " + msg[1]);
+                WriteLog("Message : " + msg[2]);
 
                 //transmitem
                 buffer = Encoding.Unicode.GetBytes(DateTime.Now.ToString());
