@@ -6,3 +6,11 @@ D:\Univer\Programarea in retea\lab5PrR\Client\obj\Debug\Client.csproj.GenerateRe
 D:\Univer\Programarea in retea\lab5PrR\Client\obj\Debug\Client.exe
 D:\Univer\Programarea in retea\lab5PrR\Client\obj\Debug\Client.pdb
 D:\Univer\Programarea in retea\lab5PrR\Client\obj\Debug\Client.ClientForm.resources
+D:\PR\lab5PrR\Client\bin\Debug\Client.exe.config
+D:\PR\lab5PrR\Client\bin\Debug\Client.exe
+D:\PR\lab5PrR\Client\bin\Debug\Client.pdb
+D:\PR\lab5PrR\Client\obj\Debug\Client.ClientForm.resources
+D:\PR\lab5PrR\Client\obj\Debug\Client.Properties.Resources.resources
+D:\PR\lab5PrR\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\PR\lab5PrR\Client\obj\Debug\Client.exe
+D:\PR\lab5PrR\Client\obj\Debug\Client.pdb

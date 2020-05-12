@@ -11,3 +11,16 @@ D:\Univer\Programarea in retea\lab5PrR\Server\bin\Debug\Client.exe
 D:\Univer\Programarea in retea\lab5PrR\Server\bin\Debug\Client.pdb
 D:\Univer\Programarea in retea\lab5PrR\Server\bin\Debug\Client.exe.config
 D:\Univer\Programarea in retea\lab5PrR\Server\obj\Debug\Server.csproj.CopyComplete
+D:\PR\lab5PrR\Server\bin\Debug\Server.exe.config
+D:\PR\lab5PrR\Server\bin\Debug\Server.exe
+D:\PR\lab5PrR\Server\bin\Debug\Server.pdb
+D:\PR\lab5PrR\Server\bin\Debug\Client.exe
+D:\PR\lab5PrR\Server\bin\Debug\Client.pdb
+D:\PR\lab5PrR\Server\bin\Debug\Client.exe.config
+D:\PR\lab5PrR\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\PR\lab5PrR\Server\obj\Debug\Server.ServerForm.resources
+D:\PR\lab5PrR\Server\obj\Debug\Server.Properties.Resources.resources
+D:\PR\lab5PrR\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\PR\lab5PrR\Server\obj\Debug\Server.csproj.CopyComplete
+D:\PR\lab5PrR\Server\obj\Debug\Server.exe
+D:\PR\lab5PrR\Server\obj\Debug\Server.pdb
