@@ -54,7 +54,7 @@ namespace Server
         {
             MethodInvoker invoker = new MethodInvoker(delegate { txtLog.AppendText(msg + Environment.NewLine); });
             this.BeginInvoke(invoker);
-        }
+        } 
 
         private void btnNew_Click(object sender, EventArgs e)
         {
