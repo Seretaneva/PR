@@ -1,0 +1,22 @@
+C:\Users\Eva\source\repos\lab4PR\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\Eva\source\repos\lab4PR\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\Eva\source\repos\lab4PR\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\Eva\source\repos\lab4PR\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\Eva\source\repos\lab4PR\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\Eva\source\repos\lab4PR\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\Eva\source\repos\lab4PR\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\Eva\source\repos\lab4PR\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\Eva\source\repos\lab4PR\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Users\Eva\source\repos\lab4PR\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Users\Eva\source\repos\lab4PR\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+D:\Univer\Programarea in retea\lab4PR\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\Univer\Programarea in retea\lab4PR\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+D:\Univer\Programarea in retea\lab4PR\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\Univer\Programarea in retea\lab4PR\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\Univer\Programarea in retea\lab4PR\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\Univer\Programarea in retea\lab4PR\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\Univer\Programarea in retea\lab4PR\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\Univer\Programarea in retea\lab4PR\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\Univer\Programarea in retea\lab4PR\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\Univer\Programarea in retea\lab4PR\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\Univer\Programarea in retea\lab4PR\Client\bin\Debug\netcoreapp3.1\Client.pdb

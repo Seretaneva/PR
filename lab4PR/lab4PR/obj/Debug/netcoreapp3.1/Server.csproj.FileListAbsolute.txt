@@ -1,0 +1,21 @@
+C:\Users\Eva\source\repos\lab4PR\lab4PR\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\Eva\source\repos\lab4PR\lab4PR\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\Eva\source\repos\lab4PR\lab4PR\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\Eva\source\repos\lab4PR\lab4PR\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\Eva\source\repos\lab4PR\lab4PR\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\Eva\source\repos\lab4PR\lab4PR\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\Eva\source\repos\lab4PR\lab4PR\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\Eva\source\repos\lab4PR\lab4PR\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\Eva\source\repos\lab4PR\lab4PR\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\Eva\source\repos\lab4PR\lab4PR\obj\Debug\netcoreapp3.1\Server.pdb
+D:\Univer\Programarea in retea\lab4PR\lab4PR\bin\Debug\netcoreapp3.1\Server.exe
+D:\Univer\Programarea in retea\lab4PR\lab4PR\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\Univer\Programarea in retea\lab4PR\lab4PR\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\Univer\Programarea in retea\lab4PR\lab4PR\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\Univer\Programarea in retea\lab4PR\lab4PR\bin\Debug\netcoreapp3.1\Server.dll
+D:\Univer\Programarea in retea\lab4PR\lab4PR\bin\Debug\netcoreapp3.1\Server.pdb
+D:\Univer\Programarea in retea\lab4PR\lab4PR\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+D:\Univer\Programarea in retea\lab4PR\lab4PR\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\Univer\Programarea in retea\lab4PR\lab4PR\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\Univer\Programarea in retea\lab4PR\lab4PR\obj\Debug\netcoreapp3.1\Server.dll
+D:\Univer\Programarea in retea\lab4PR\lab4PR\obj\Debug\netcoreapp3.1\Server.pdb
