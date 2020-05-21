@@ -1,0 +1,11 @@
+D:\Univer\Programarea in retea\lab3PR\lab3PR\bin\Debug\netcoreapp3.1\lab3PR.exe
+D:\Univer\Programarea in retea\lab3PR\lab3PR\bin\Debug\netcoreapp3.1\lab3PR.deps.json
+D:\Univer\Programarea in retea\lab3PR\lab3PR\bin\Debug\netcoreapp3.1\lab3PR.runtimeconfig.json
+D:\Univer\Programarea in retea\lab3PR\lab3PR\bin\Debug\netcoreapp3.1\lab3PR.runtimeconfig.dev.json
+D:\Univer\Programarea in retea\lab3PR\lab3PR\bin\Debug\netcoreapp3.1\lab3PR.dll
+D:\Univer\Programarea in retea\lab3PR\lab3PR\bin\Debug\netcoreapp3.1\lab3PR.pdb
+D:\Univer\Programarea in retea\lab3PR\lab3PR\obj\Debug\netcoreapp3.1\lab3PR.csprojAssemblyReference.cache
+D:\Univer\Programarea in retea\lab3PR\lab3PR\obj\Debug\netcoreapp3.1\lab3PR.AssemblyInfoInputs.cache
+D:\Univer\Programarea in retea\lab3PR\lab3PR\obj\Debug\netcoreapp3.1\lab3PR.AssemblyInfo.cs
+D:\Univer\Programarea in retea\lab3PR\lab3PR\obj\Debug\netcoreapp3.1\lab3PR.dll
+D:\Univer\Programarea in retea\lab3PR\lab3PR\obj\Debug\netcoreapp3.1\lab3PR.pdb
