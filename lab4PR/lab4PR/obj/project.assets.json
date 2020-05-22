@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Univer\\Programarea in retea\\lab4PR\\lab4PR\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\Eva\\Desktop\\PR\\lab4PR\\lab4PR\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "D:\\Univer\\Programarea in retea\\lab4PR\\lab4PR\\Server.csproj",
+      "projectPath": "C:\\Users\\Eva\\Desktop\\PR\\lab4PR\\lab4PR\\Server.csproj",
       "packagesPath": "C:\\Users\\Eva\\.nuget\\packages\\",
-      "outputPath": "D:\\Univer\\Programarea in retea\\lab4PR\\lab4PR\\obj\\",
+      "outputPath": "C:\\Users\\Eva\\Desktop\\PR\\lab4PR\\lab4PR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
